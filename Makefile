@@ -27,3 +27,8 @@ day6:
 	npx ts-node day6.ts
 day6-2:
 	npx ts-node day6-2.ts
+
+day7:
+	npx ts-node day7.ts
+day7-2:
+	npx ts-node day7-2.ts
