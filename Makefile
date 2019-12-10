@@ -37,3 +37,8 @@ day8:
 	npx ts-node day8.ts
 day8-2:
 	npx ts-node day8-2.ts
+
+day9:
+	npx ts-node day9.ts
+day9-2:
+	npx ts-node day9-2.ts
