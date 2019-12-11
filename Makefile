@@ -47,3 +47,8 @@ day10:
 	npx ts-node day10.ts
 day10-2:
 	npx ts-node day10-2.ts
+
+day11:
+	npx ts-node day11.ts
+day11-2:
+	npx ts-node day11-2.ts
